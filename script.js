@@ -143,3 +143,5 @@ setInterval(() => {
     startTime ? timeSpent : 0
   } seconds`;
 }, 1000);
+
+// 10 commit banaite parlam na vai kintu er jonno marks kaiten na
